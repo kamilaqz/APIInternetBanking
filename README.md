@@ -1,4 +1,7 @@
-Java RESTful API criada para o SDW 2023. Esta API também conta com um banco de dados H2 e uma interface Swagger para controle de endpoints.
+Java RESTful API criada para o SDW 2023. A aplicação utiliza o framework Spring Boot, um banco de dados H2 em memória e incorpora a interface Swagger para facilitar o controle e documentação dos endpoints.
+
+# Pré-requisitos
+Certifique-se de ter o Java e o Maven instalados em sua máquina.
 
 ## Diagrama de Classes
 
