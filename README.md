@@ -1,4 +1,4 @@
-Java RESTful API criada para o SDW 2023
+Java RESTful API criada para o SDW 2023. Esta API também conta com um banco de dados H2 e uma interface Swagger para controle de endpoints.
 
 ## Diagrama de Classes
 
